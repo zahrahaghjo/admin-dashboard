@@ -2,7 +2,7 @@
 
 A clean, responsive admin dashboard built with **React**, **Tailwind CSS**, **Vite** and **Recharts**.
 
-🔗 **Live demo:** https://YOUR-USERNAME.github.io/admin-dashboard/
+🔗 **Live demo:** https://zahrahaghjo.github.io/admin-dashboard/
 
  screenshot: ![Dashboard screenshot](./screenshots/preview.png)
 
